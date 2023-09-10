@@ -14,7 +14,7 @@ binary, for any purpose, commercial or non-commercial, and by any
 means.
 
 Willian Gabriel Cerqueira da Rocha
-willianrocha[at]riseup[dot]net
+hello[at]willgcr[dot]me
 https://wgrocha.github.io
 
 */
